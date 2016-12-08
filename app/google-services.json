@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "242422761339",
+    "firebase_url": "https://chisauapp-1476137598043.firebaseio.com",
+    "project_id": "chisauapp-1476137598043",
+    "storage_bucket": "chisauapp-1476137598043.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242422761339:android:3e45033335c7f740",
+        "android_client_info": {
+          "package_name": "com.ryanpotsander.chisauapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242422761339-ruhrtjon430r57ujhd94p8t1mnih86vc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ryanpotsander.chisauapp",
+            "certificate_hash": "DDA26423734EF681EC27180EE0B7A1DBB586E417"
+          }
+        },
+        {
+          "client_id": "242422761339-k0paoidait3b55n30oorjp312h5l2jl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2TiR2DPHAu-updk7z3Jvep7SZNILh8Qw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242422761339-k0paoidait3b55n30oorjp312h5l2jl2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

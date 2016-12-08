@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chi Sau App</string>
+    <string name="maps_api_key">AIzaSyCMUhNUicrjWdNtGtonZHGrCSuylupu_-U</string>
+    <string name="sign_out">Sign Out</string>
+</resources>
